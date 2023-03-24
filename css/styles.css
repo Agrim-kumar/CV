@@ -1,0 +1,22 @@
+body {
+    background-color: powderblue;
+  }
+
+  hr {
+    border-style:none;
+    border-top-style:dotted ;
+    border-color: rgb(129, 118, 118);
+    width: 5%;
+    border-width: 5px;
+  }
+
+  h3{
+    color: #66BFBF;
+  }
+  h1{
+    color: #66BFBF;
+  }
+
+.fullline{
+  width: 100%;
+}
